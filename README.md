@@ -1,49 +1,39 @@
 # Anushka Gupta
 
-B.Tech Computer Science Engineering (2023–2027)  
-Banasthali Vidyapith  
-CGPA: 8.5  
+Computer Science undergraduate focused on backend development, system design, and problem solving.
 
-Computer Science undergraduate with strong foundations in Data Structures, Algorithms, and System Design.  
-Experienced in backend development, database optimization, and building scalable full-stack applications.
+I enjoy building structured, scalable applications and working on projects that involve performance optimization and clean architecture.
 
 ---
 
-## Work Experience
+## Areas of Interest
 
-### Software Intern  
-Centre for Railway Information Systems (CRIS)  
-June 2024 – July 2024  
-
-- Designed and optimized dynamic web forms using Django, JavaScript, HTML, and CSS.
-- Reduced manual data entry by 35% by implementing workflow automation solutions.
-- Integrated and optimized MySQL queries, improving backend performance by 40%.
-- Contributed to backend logic development and collaborated within an Agile team environment.
+- Backend Development  
+- Data Structures & Algorithms  
+- Operating Systems  
+- System Design  
+- Database Optimization  
 
 ---
 
 ## Projects
 
-### Resource Scheduling & Monitoring System (C++)
-- Implemented FCFS, SJF, Priority, and Round Robin scheduling algorithms.
-- Applied Object-Oriented Design principles and modular architecture.
-- Evaluated waiting time, turnaround time, and throughput metrics for performance comparison.
+- **Resource Scheduling System (C++)**  
+  Implementation of classical CPU scheduling algorithms with performance analysis.
 
-### Alumni Association Website (Full-Stack | In Progress)
-- Developing a role-based full-stack web platform.
-- Implementing frontend-backend integration and structured database schema design.
+- **Alumni Association Web Platform**  
+  Role-based full-stack web application with structured database design.
 
-### Hostel Management System
-- Designed and structured a web-based issue reporting and student communication system.
+- **Hostel Management System**  
+  Web-based issue reporting and communication platform.
 
 ---
 
 ## Technical Skills
 
 Languages: C, C++, Java, Python  
-Web Technologies: HTML, CSS, JavaScript, Django, React  
+Web: HTML, CSS, JavaScript, Django, React  
 Database: MySQL  
-Core Concepts: Data Structures & Algorithms, OOP, Operating Systems, DBMS, Computer Networks  
 Tools: Git, GitHub  
 
 ---
