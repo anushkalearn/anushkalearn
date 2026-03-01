@@ -1,43 +1,42 @@
-# Anushka Gupta
+<h1 align="center">Hi, I'm Anushka 👋</h1>
 
-Computer Science undergraduate focused on backend development, system design, and problem solving.
-
-I enjoy building structured, scalable applications and working on projects that involve performance optimization and clean architecture.
-
----
-
-## Areas of Interest
-
-- Backend Development  
-- Data Structures & Algorithms  
-- Operating Systems  
-- System Design  
-- Database Optimization  
+<p align="center">
+Computer Science student | Backend & Systems Enthusiast
+</p>
 
 ---
 
-## Projects
+### About Me
+
+- Currently exploring backend development and system design
+- Interested in performance optimization and structured application architecture
+- Enjoy solving algorithmic and logic-based problems
+- Building projects to strengthen practical development skills
+
+---
+
+### Projects
 
 - **Resource Scheduling System (C++)**  
-  Implementation of classical CPU scheduling algorithms with performance analysis.
+  Implementation of classical CPU scheduling algorithms with performance evaluation.
 
 - **Alumni Association Web Platform**  
-  Role-based full-stack web application with structured database design.
+  Role-based full-stack application with database integration.
 
 - **Hostel Management System**  
   Web-based issue reporting and communication platform.
 
 ---
 
-## Technical Skills
+### Tech Stack
 
-Languages: C, C++, Java, Python  
-Web: HTML, CSS, JavaScript, Django, React  
-Database: MySQL  
-Tools: Git, GitHub  
+**Languages:** C, C++, Java, Python  
+**Web:** HTML, CSS, JavaScript, Django, React  
+**Database:** MySQL  
+**Tools:** Git, GitHub  
 
 ---
 
-## Contact
+### Connect
 
 LinkedIn: https://linkedin.com/in/anushka-gupta-23a7b4287
